@@ -1,0 +1,6 @@
+- name: Preparing the Customer Message 
+  href: preparing-customer-message.md
+- name: Creating the Final Draft of the Customer Message
+  href: creating-final-draft-customer-message.md
+- name: Getting the SN Message Draft Approved
+  href: getting-sn-message-approved.md

@@ -1,0 +1,6 @@
+- name: Publishing the Service Notification
+  href: publishing-sn.md
+- name: Creating a New Event in ACM
+  href: creating-new-event-acm.md
+- name: Sending the SN in ACM 
+  href: sending-sn-acm.md
